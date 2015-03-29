@@ -35,7 +35,7 @@ function add(data){
   var connection = mysql.createConnection({
      host : 'localhost',
      user : 'root',
-     password : 'yyw201314',
+     password : 'password',
      database : 'ilock'
 
   })
