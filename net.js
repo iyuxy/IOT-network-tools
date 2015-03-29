@@ -35,8 +35,8 @@ function add(data){
   var connection = mysql.createConnection({
      host : 'localhost',
      user : 'root',
-     password : 'yyw201314',
-     database : 'ilock'
+     password : 'password',
+     database : 'database'
 
   })
 //连接数据库
