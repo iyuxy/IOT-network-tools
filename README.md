@@ -1,3 +1,5 @@
-# mynodejs
-用nodejs写的TCP server，并且将接受收到的数据存储到数据库中，应用于物联网场景中。
+# IOT-network-tools
+## 功能
+* 1.TCP server
+* 2.数据库连接
 
